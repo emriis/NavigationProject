@@ -1,0 +1,12 @@
+.erreur {
+	color: darkred;
+}
+
+.icon {
+	width : 20px;
+	height : 20px;
+}
+
+.profile {
+	visibility: hidden
+}
